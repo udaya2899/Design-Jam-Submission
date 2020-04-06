@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Design-Jam-Submission/static/css/main.5f361e03.chunk.css",
+    "main.js": "/Design-Jam-Submission/static/js/main.da8a2e85.chunk.js",
+    "main.js.map": "/Design-Jam-Submission/static/js/main.da8a2e85.chunk.js.map",
+    "runtime-main.js": "/Design-Jam-Submission/static/js/runtime-main.a541afe6.js",
+    "runtime-main.js.map": "/Design-Jam-Submission/static/js/runtime-main.a541afe6.js.map",
+    "static/js/2.54d2dc4f.chunk.js": "/Design-Jam-Submission/static/js/2.54d2dc4f.chunk.js",
+    "static/js/2.54d2dc4f.chunk.js.map": "/Design-Jam-Submission/static/js/2.54d2dc4f.chunk.js.map",
+    "index.html": "/Design-Jam-Submission/index.html",
+    "precache-manifest.b86916d755dedc03a241e2b169751d44.js": "/Design-Jam-Submission/precache-manifest.b86916d755dedc03a241e2b169751d44.js",
+    "service-worker.js": "/Design-Jam-Submission/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/Design-Jam-Submission/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.54d2dc4f.chunk.js.LICENSE.txt": "/Design-Jam-Submission/static/js/2.54d2dc4f.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Design-Jam-Submission/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a541afe6.js",
+    "static/js/2.54d2dc4f.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.da8a2e85.chunk.js"
+  ]
+}

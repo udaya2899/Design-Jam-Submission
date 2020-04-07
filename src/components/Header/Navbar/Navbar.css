@@ -1,0 +1,54 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+}
+
+.navbar-brand {
+  margin: 0 0 0 10%;
+}
+
+.navbar-menu {
+  width: 40%;
+}
+
+.navbar-menu {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+a:-webkit-any-link {
+  font-weight: 1000;
+  text-decoration: none;
+  color: #634832;
+}
+
+.btn-1 {
+  letter-spacing: 0.05rem;
+  transition: 0.5s all ease-in-out;
+  position: relative;
+  background: transparent;
+}
+
+.btn-1:before {
+  border-top: 0.1rem solid#634832;
+  border-bottom: 0.1rem solid #634832;
+  display: block;
+  position: absolute;
+  background: transparent;
+  content: '';
+  top: -10px;
+  bottom: -10px;
+  left: 200%;
+  right: 200%;
+  transition: 0.48s all ease-in-out;
+}
+
+.btn-1:hover {
+  letter-spacing: 0.4rem;
+}
+
+.btn-1:hover:before {
+  left: 0;
+  right: 0;
+}

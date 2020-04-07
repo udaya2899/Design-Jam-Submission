@@ -1,0 +1,64 @@
+.home-container {
+    height: 100%;
+
+}
+
+.video-container {
+    position: fixed;
+    z-index: 0;
+}
+
+@media (min-aspect-ratio: 16/9) {
+    .video-container {
+        width: 100%;
+        height: auto;
+    }
+}
+
+@media (max-aspect-ratio: 16/9) {
+    .video-container {
+        width: auto;
+        height: 100%;
+    }
+}
+
+.afterEnded {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.afterEnded-image {
+    margin-left: 35%;
+    transform: translateX(-80%);
+    animation: coffee 7s ease-in-out;
+    /* other keywords like "infinite alternate" can be useful here */
+}
+
+@keyframes coffee {
+
+    /* You could think of as "step 1" */
+    0% {
+        opacity: 0;
+    }
+
+    85% {
+        transform: translateX(0px);
+        opacity: 0;
+    }
+
+    /* You could think of as "step 2" */
+    100% {
+        transform: translateX(-80%);
+        opacity: 1;
+    }
+}
+
+.brand-title {
+    margin-right: 10%;
+    font-family: 'Montserrat';
+    font-size: 120px;
+    color: #634832;
+    justify-self: center;
+}

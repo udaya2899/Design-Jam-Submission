@@ -3,12 +3,14 @@
   justify-content: space-between;
 }
 
+.navbar-container {}
+
 .navbar-brand {
-  margin: 0 0 0 10%;
+  margin: 0px 0 0 10%;
 }
 
 .navbar-menu {
-  width: 40%;
+  width: 25%;
 }
 
 .navbar-menu {
@@ -20,7 +22,7 @@
 a:-webkit-any-link {
   font-weight: 1000;
   text-decoration: none;
-  color: #634832;
+  color: var(--main-dark);
 }
 
 .btn-1 {
@@ -46,6 +48,7 @@ a:-webkit-any-link {
 
 .btn-1:hover {
   letter-spacing: 0.4rem;
+  font-weight: 1200;
 }
 
 .btn-1:hover:before {

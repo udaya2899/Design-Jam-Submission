@@ -1,13 +1,13 @@
-import React, { Component } from 'react'
-
+import React, { Component } from 'react';
+import './Variants.css';
 export class Variants extends Component {
-    render() {
-        return (
-            <div>
-                Variants
-            </div>
-        )
-    }
+  render() {
+    return (
+      <div className="variant-container" id="variant__id">
+        Variants
+      </div>
+    );
+  }
 }
 
-export default Variants
+export default Variants;

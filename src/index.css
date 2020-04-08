@@ -2,8 +2,20 @@ body {
     margin: 0;
 }
 
-html, body, #root, .app-container {
+html,
+body,
+#root,
+    {
     height: 100%;
-    background-color: rgba(236, 224, 209, 0.4);
 }
 
+.app-container {
+    background-color: rgba(236, 224, 209);
+    height: 100%;
+}
+
+:root {
+    --main-dark: #634832;
+    --main-dark-rgb: 99, 72, 50;
+    --main-light: rgb(236, 224, 209)
+}

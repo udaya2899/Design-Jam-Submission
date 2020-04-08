@@ -1,17 +1,19 @@
 {
   "files": {
-    "main.css": "/Design-Jam-Submission/static/css/main.366af73c.chunk.css",
-    "main.js": "/Design-Jam-Submission/static/js/main.778cf11e.chunk.js",
-    "main.js.map": "/Design-Jam-Submission/static/js/main.778cf11e.chunk.js.map",
+    "main.css": "/Design-Jam-Submission/static/css/main.92478b32.chunk.css",
+    "main.js": "/Design-Jam-Submission/static/js/main.8fe4fbd4.chunk.js",
+    "main.js.map": "/Design-Jam-Submission/static/js/main.8fe4fbd4.chunk.js.map",
     "runtime-main.js": "/Design-Jam-Submission/static/js/runtime-main.a541afe6.js",
     "runtime-main.js.map": "/Design-Jam-Submission/static/js/runtime-main.a541afe6.js.map",
-    "static/js/2.fef31543.chunk.js": "/Design-Jam-Submission/static/js/2.fef31543.chunk.js",
-    "static/js/2.fef31543.chunk.js.map": "/Design-Jam-Submission/static/js/2.fef31543.chunk.js.map",
+    "static/css/2.4707e12a.chunk.css": "/Design-Jam-Submission/static/css/2.4707e12a.chunk.css",
+    "static/js/2.f03464f7.chunk.js": "/Design-Jam-Submission/static/js/2.f03464f7.chunk.js",
+    "static/js/2.f03464f7.chunk.js.map": "/Design-Jam-Submission/static/js/2.f03464f7.chunk.js.map",
     "index.html": "/Design-Jam-Submission/index.html",
-    "precache-manifest.ef98a62515c7730af4da1a448541d57a.js": "/Design-Jam-Submission/precache-manifest.ef98a62515c7730af4da1a448541d57a.js",
+    "precache-manifest.df3e2bf80dc34696de3e7d411bf1024d.js": "/Design-Jam-Submission/precache-manifest.df3e2bf80dc34696de3e7d411bf1024d.js",
     "service-worker.js": "/Design-Jam-Submission/service-worker.js",
-    "static/css/main.366af73c.chunk.css.map": "/Design-Jam-Submission/static/css/main.366af73c.chunk.css.map",
-    "static/js/2.fef31543.chunk.js.LICENSE.txt": "/Design-Jam-Submission/static/js/2.fef31543.chunk.js.LICENSE.txt",
+    "static/css/2.4707e12a.chunk.css.map": "/Design-Jam-Submission/static/css/2.4707e12a.chunk.css.map",
+    "static/css/main.92478b32.chunk.css.map": "/Design-Jam-Submission/static/css/main.92478b32.chunk.css.map",
+    "static/js/2.f03464f7.chunk.js.LICENSE.txt": "/Design-Jam-Submission/static/js/2.f03464f7.chunk.js.LICENSE.txt",
     "static/media/cafe-amor.png": "/Design-Jam-Submission/static/media/cafe-amor.5b4f50a2.png",
     "static/media/coffee-bag.png": "/Design-Jam-Submission/static/media/coffee-bag.07c297ff.png",
     "static/media/coffee-bean-art-transparent.png": "/Design-Jam-Submission/static/media/coffee-bean-art-transparent.fd0c4878.png",
@@ -20,8 +22,9 @@
   },
   "entrypoints": [
     "static/js/runtime-main.a541afe6.js",
-    "static/js/2.fef31543.chunk.js",
-    "static/css/main.366af73c.chunk.css",
-    "static/js/main.778cf11e.chunk.js"
+    "static/css/2.4707e12a.chunk.css",
+    "static/js/2.f03464f7.chunk.js",
+    "static/css/main.92478b32.chunk.css",
+    "static/js/main.8fe4fbd4.chunk.js"
   ]
 }

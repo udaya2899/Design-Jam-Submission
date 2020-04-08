@@ -1,30 +1,36 @@
 import React, { Component } from 'react';
 import './Variants.css';
+import { Parallax } from 'react-scroll-parallax';
+
 export class Variants extends Component {
   render() {
     return (
       <div className="variant-container" id="variant__id">
+        <div className="about-title">VARIANTS</div>
         <div className="variant-card-container">
-          <div className="card">
-            <div className="title">Coffee Robusta</div>
-            <div className="content">
-              It is a long established fact that a reader will be distracted by
-              the readable content of a page when looking at its layout. The
-              point of using Lorem Ipsum is that it has a more-or-less normal
-              distribution of letters, as opposed to using 'Content here,
-              content here', making it look like readable English.
+          <Parallax y={[-100, 30]}>
+            <div className="card card-shadow">
+              <div className="card-title">Coffee Robusta</div>
+              <div className="card-content">
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                Vestibulum placerat ipsum vel eros pellentesque vehicula. Ut vel
+                rhoncus ante. Pellentesque ipsum nunc, convallis ac pellentesque
+                a, pharetra a urna. Donec iaculis luctus massa id blandit.
+              </div>
             </div>
-          </div>
-          <div className="card">
-            <div className="title">Coffee Arabica</div>
-            <div className="content">
-              It is a long established fact that a reader will be distracted by
-              the readable content of a page when looking at its layout. The
-              point of using Lorem Ipsum is that it has a more-or-less normal
-              distribution of letters, as opposed to using 'Content here,
-              content here', making it look like readable English.
+          </Parallax>
+          <Parallax y={[40, -40]}>
+            <div className="card card-shadow">
+              <div className="card-title">Coffee Arabica</div>
+              <div className="card-content">
+                <span>{'    '}</span>
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                Vestibulum placerat ipsum vel eros pellentesque vehicula. Ut vel
+                rhoncus ante. Pellentesque ipsum nunc, convallis ac pellentesque
+                a, pharetra a urna. Donec iaculis luctus massa id blandit.
+              </div>
             </div>
-          </div>
+          </Parallax>
         </div>
       </div>
     );

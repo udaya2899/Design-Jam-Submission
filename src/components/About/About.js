@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import { Parallax } from 'react-scroll-parallax';
 import './About.css';
 import CoffeeArt from './../../assets/img/coffee-bean-art-transparent.png';
 import CoffeeBag from './../../assets/img/coffee-bag.png';
@@ -6,10 +7,13 @@ export class About extends Component {
   render() {
     return (
       <div className="about-container-wrapper">
-        <div data-aos="fade-right" className="about-container" id="about__id">
+        <div className="about-container" id="about__id">
           <div className="about-image-container">
-            <img src={CoffeeArt} alt="Coffee Beans Stacked" />
+            <Parallax y={[-100, 100]} x={[-200, 0]}>
+              <img src={CoffeeArt} alt="Coffee Beans Stacked" />
+            </Parallax>
           </div>
+
           <div className="about-title-container">
             <div className="about-title">Finely Ground</div>
             <div className="about-text">
@@ -18,7 +22,8 @@ export class About extends Component {
             </div>
           </div>
         </div>
-        <div data-aos="fade-left" className="about-container-bottom">
+
+        <div className="about-container-bottom">
           <div className="about-title-container">
             <div className="about-title">Fresh Aroma</div>
             <div className="about-text">
@@ -26,8 +31,11 @@ export class About extends Component {
               soul, gives you the right amount of energy to handle pressure
             </div>
           </div>
+
           <div className="about-image-container">
-            <img width="400px" src={CoffeeBag} alt="Coffee beans in a bag" />
+            <Parallax y={[100, -200]} x={[100, 0]}>
+              <img width="400px" src={CoffeeBag} alt="Coffee beans in a bag" />
+            </Parallax>
           </div>
         </div>
       </div>

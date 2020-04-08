@@ -5,6 +5,7 @@
 }
 
 .about-container-wrapper {
+  overflow: hidden;
   height: 100vh;
   padding-top: 80px;
   background-color: rgba(var(--main-dark-rgb), 0.1);

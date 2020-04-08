@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import { ParallaxProvider } from 'react-scroll-parallax';
 
 import ContainerWrapper from './components/ContainerWrapper/ContainerWrapper';
 import AOS from 'aos';
@@ -11,7 +12,11 @@ class App extends Component {
     });
   }
   render() {
-    return <ContainerWrapper />;
+    return (
+      <ParallaxProvider>
+        <ContainerWrapper />
+      </ParallaxProvider>
+    );
   }
 }
 

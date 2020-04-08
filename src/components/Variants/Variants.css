@@ -1,10 +1,46 @@
 .variant-container {
   padding-top: 80px;
   height: 100vh;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
 }
 
 .variant-card-container {
+  width: 100%;
   display: flex;
-  justify-content: center;
-  align-items: center;
+  justify-content: space-around;
+}
+
+.card {
+  color: rgb(236, 224, 209);
+  border-radius: 10px;
+  padding: 20px;
+  width: 300px;
+  background-color: rgba(150, 114, 89, 0.9);
+}
+
+.card-shadow {
+  box-shadow:
+    0 2.8px 2.2px rgba(0, 0, 0, 0.02),
+    0 6.7px 5.3px rgba(0, 0, 0, 0.028),
+    0 12.5px 10px rgba(0, 0, 0, 0.035),
+    0 22.3px 17.9px rgba(0, 0, 0, 0.042),
+    0 41.8px 33.4px rgba(0, 0, 0, 0.05),
+    0 100px 80px rgba(0, 0, 0, 0.07);
+}
+
+.card-title {
+  font-family: 'Bebas Neue', cursive;
+  font-size: 28px;
+  text-align: center;
+}
+
+.card-content {
+  font-family: 'Montserrat', sans-serif;
+  text-align: justify;
+  font-style: italic;
+  text-indent: 30px;
+  line-height: 30px;
 }

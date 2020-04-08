@@ -1,5 +1,55 @@
 .contact-container {
-  height: 100vh;
+  padding-top: 8%;
+  display: flex;
+  justify-content: space-between;
+  align-self: center;
+}
 
+.contact-container-wrapper {
+  height: 100vh;
+  background-color: rgba(var(--main-dark-rgb), 0.1);
   padding-top: 80px;
+  overflow: hidden;
+}
+
+.contact-image-container {
+  align-self: center;
+}
+
+.contact-card {
+  padding: 40px;
+  color: var(--main-dark);
+  justify-self: center;
+
+}
+
+.contact-card-title {
+  font-family: 'Bebas Neue', cursive;
+  font-size: 84px;
+
+}
+
+.social-media-icons {
+  width: 100%;
+  padding-top: 10%;
+  font-size: 48px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.contact-card-subtitle>div {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 36px;
+  font-weight: bold;
+  padding-top: 40%;
+}
+
+.contact-card-subtitle>div>div {
+  font-size: 18px;
+  font-weight: regular;
+}
+
+.contact-card-subtitle {
+  display: flex;
+  justify-content: space-between;
 }

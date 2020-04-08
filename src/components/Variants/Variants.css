@@ -2,3 +2,9 @@
   padding-top: 80px;
   height: 100vh;
 }
+
+.variant-card-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

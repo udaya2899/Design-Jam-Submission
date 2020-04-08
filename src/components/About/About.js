@@ -6,7 +6,7 @@ export class About extends Component {
   render() {
     return (
       <div className="about-container-wrapper">
-        <div className="about-container" id="about__id">
+        <div data-aos="fade-right" className="about-container" id="about__id">
           <div className="about-image-container">
             <img src={CoffeeArt} alt="Coffee Beans Stacked" />
           </div>
@@ -18,7 +18,7 @@ export class About extends Component {
             </div>
           </div>
         </div>
-        <div className="about-container-bottom">
+        <div data-aos="fade-left" className="about-container-bottom">
           <div className="about-title-container">
             <div className="about-title">Fresh Aroma</div>
             <div className="about-text">

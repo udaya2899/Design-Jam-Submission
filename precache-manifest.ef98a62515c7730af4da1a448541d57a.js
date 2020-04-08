@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a5d95d34a94a1a1c1a107f632004e009",
+    "revision": "36511e49add33ff47e045f806e731a52",
     "url": "/Design-Jam-Submission/index.html"
   },
   {
-    "revision": "65d0180d04cec996ccba",
-    "url": "/Design-Jam-Submission/static/css/main.6ace523b.chunk.css"
+    "revision": "70db9cafae21bd7c8584",
+    "url": "/Design-Jam-Submission/static/css/main.366af73c.chunk.css"
   },
   {
-    "revision": "bc0e34f7ce7e05cfc1e7",
-    "url": "/Design-Jam-Submission/static/js/2.f3e01580.chunk.js"
+    "revision": "d72f8e4082b7482e21af",
+    "url": "/Design-Jam-Submission/static/js/2.fef31543.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/Design-Jam-Submission/static/js/2.f3e01580.chunk.js.LICENSE.txt"
+    "url": "/Design-Jam-Submission/static/js/2.fef31543.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "65d0180d04cec996ccba",
-    "url": "/Design-Jam-Submission/static/js/main.5520bb69.chunk.js"
+    "revision": "70db9cafae21bd7c8584",
+    "url": "/Design-Jam-Submission/static/js/main.778cf11e.chunk.js"
   },
   {
     "revision": "0729fcb8865a6285aff9",
@@ -26,6 +26,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5b4f50a2bb9038a60265ee2f2b913588",
     "url": "/Design-Jam-Submission/static/media/cafe-amor.5b4f50a2.png"
+  },
+  {
+    "revision": "07c297ffbbac6f16c106d91747bc8726",
+    "url": "/Design-Jam-Submission/static/media/coffee-bag.07c297ff.png"
+  },
+  {
+    "revision": "fd0c48787101370a750a19354b82b795",
+    "url": "/Design-Jam-Submission/static/media/coffee-bean-art-transparent.fd0c4878.png"
   },
   {
     "revision": "22973027795270d90c45781e162bbf0f",

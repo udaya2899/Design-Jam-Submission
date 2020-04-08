@@ -1,25 +1,27 @@
 {
   "files": {
-    "main.css": "/Design-Jam-Submission/static/css/main.6ace523b.chunk.css",
-    "main.js": "/Design-Jam-Submission/static/js/main.5520bb69.chunk.js",
-    "main.js.map": "/Design-Jam-Submission/static/js/main.5520bb69.chunk.js.map",
+    "main.css": "/Design-Jam-Submission/static/css/main.366af73c.chunk.css",
+    "main.js": "/Design-Jam-Submission/static/js/main.778cf11e.chunk.js",
+    "main.js.map": "/Design-Jam-Submission/static/js/main.778cf11e.chunk.js.map",
     "runtime-main.js": "/Design-Jam-Submission/static/js/runtime-main.a541afe6.js",
     "runtime-main.js.map": "/Design-Jam-Submission/static/js/runtime-main.a541afe6.js.map",
-    "static/js/2.f3e01580.chunk.js": "/Design-Jam-Submission/static/js/2.f3e01580.chunk.js",
-    "static/js/2.f3e01580.chunk.js.map": "/Design-Jam-Submission/static/js/2.f3e01580.chunk.js.map",
+    "static/js/2.fef31543.chunk.js": "/Design-Jam-Submission/static/js/2.fef31543.chunk.js",
+    "static/js/2.fef31543.chunk.js.map": "/Design-Jam-Submission/static/js/2.fef31543.chunk.js.map",
     "index.html": "/Design-Jam-Submission/index.html",
-    "precache-manifest.80ce5710a5401b2f87edb3229e35f463.js": "/Design-Jam-Submission/precache-manifest.80ce5710a5401b2f87edb3229e35f463.js",
+    "precache-manifest.ef98a62515c7730af4da1a448541d57a.js": "/Design-Jam-Submission/precache-manifest.ef98a62515c7730af4da1a448541d57a.js",
     "service-worker.js": "/Design-Jam-Submission/service-worker.js",
-    "static/css/main.6ace523b.chunk.css.map": "/Design-Jam-Submission/static/css/main.6ace523b.chunk.css.map",
-    "static/js/2.f3e01580.chunk.js.LICENSE.txt": "/Design-Jam-Submission/static/js/2.f3e01580.chunk.js.LICENSE.txt",
+    "static/css/main.366af73c.chunk.css.map": "/Design-Jam-Submission/static/css/main.366af73c.chunk.css.map",
+    "static/js/2.fef31543.chunk.js.LICENSE.txt": "/Design-Jam-Submission/static/js/2.fef31543.chunk.js.LICENSE.txt",
     "static/media/cafe-amor.png": "/Design-Jam-Submission/static/media/cafe-amor.5b4f50a2.png",
+    "static/media/coffee-bag.png": "/Design-Jam-Submission/static/media/coffee-bag.07c297ff.png",
+    "static/media/coffee-bean-art-transparent.png": "/Design-Jam-Submission/static/media/coffee-bean-art-transparent.fd0c4878.png",
     "static/media/coffee-bean-heart_transparent.png": "/Design-Jam-Submission/static/media/coffee-bean-heart_transparent.22973027.png",
     "static/media/zoomtocoorg.mp4": "/Design-Jam-Submission/static/media/zoomtocoorg.928adba3.mp4"
   },
   "entrypoints": [
     "static/js/runtime-main.a541afe6.js",
-    "static/js/2.f3e01580.chunk.js",
-    "static/css/main.6ace523b.chunk.css",
-    "static/js/main.5520bb69.chunk.js"
+    "static/js/2.fef31543.chunk.js",
+    "static/css/main.366af73c.chunk.css",
+    "static/js/main.778cf11e.chunk.js"
   ]
 }

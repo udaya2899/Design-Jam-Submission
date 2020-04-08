@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "91de626671f5d24f2f28ac23324cc697",
+    "revision": "bb083b1c4a387295d07ece771d1f216c",
     "url": "/Design-Jam-Submission/index.html"
   },
   {
-    "revision": "aed2a22b470714f1cbd3",
+    "revision": "cdf9281c5afeb945f227",
     "url": "/Design-Jam-Submission/static/css/2.4707e12a.chunk.css"
   },
   {
-    "revision": "fccdfd4efc6efa654694",
-    "url": "/Design-Jam-Submission/static/css/main.92478b32.chunk.css"
+    "revision": "0733d1bce1d276baa5c4",
+    "url": "/Design-Jam-Submission/static/css/main.115a3b78.chunk.css"
   },
   {
-    "revision": "aed2a22b470714f1cbd3",
-    "url": "/Design-Jam-Submission/static/js/2.f03464f7.chunk.js"
+    "revision": "cdf9281c5afeb945f227",
+    "url": "/Design-Jam-Submission/static/js/2.ebc51e93.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/Design-Jam-Submission/static/js/2.f03464f7.chunk.js.LICENSE.txt"
+    "url": "/Design-Jam-Submission/static/js/2.ebc51e93.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fccdfd4efc6efa654694",
-    "url": "/Design-Jam-Submission/static/js/main.8fe4fbd4.chunk.js"
+    "revision": "0733d1bce1d276baa5c4",
+    "url": "/Design-Jam-Submission/static/js/main.bef926b4.chunk.js"
   },
   {
     "revision": "0729fcb8865a6285aff9",
@@ -42,6 +42,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "22973027795270d90c45781e162bbf0f",
     "url": "/Design-Jam-Submission/static/media/coffee-bean-heart_transparent.22973027.png"
+  },
+  {
+    "revision": "def5068033cdd7f6ac15574edaf4ff12",
+    "url": "/Design-Jam-Submission/static/media/coffee-waves.def50680.png"
   },
   {
     "revision": "928adba3450a9ad412abfc20a8200baf",
